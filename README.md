@@ -10,3 +10,5 @@ Output: A set of associating probability  P = {p1,p2,p3,...,pn}for input commits
 Task Description
 
 My task is to build a machine learning model to predict pi for ci given  fi. The model will be trained on historical data and will be used to predict new data.
+
+*Result: 73% AUC.
